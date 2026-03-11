@@ -4,6 +4,9 @@
 
 # xiaohongshu-ops
 
+> English README: see `README.en.md`
+
+
 小红书自动运营Skill，搭配Openclaw可以独立运营小红书账号
 
 基于浏览器自动化(CDP)，实现自动发布，自动回复、爆款笔记复刻，第一次需要扫码登录，后续无需重复验证
